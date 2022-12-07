@@ -6,7 +6,7 @@ logs/
 .venv
 venv
 .vscode
-*.ipynb
+# *.ipynb
 env/
 venv/
 !notebooks/jupyter/.gitkeep
